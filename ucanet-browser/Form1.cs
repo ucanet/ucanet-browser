@@ -138,9 +138,9 @@ namespace ucanet_browser
 @"ucanet browser is a free browser for exploring the web
 within the ucanet ecosystem.
 
-ucanet browser version 1.0
+ucanet browser version 1.1
 ucanet.net
-Copyright © 2023", "ucanet browser - info");
+Copyright Â© 2023", "ucanet browser - info");
         }
 
         private void label2_Click(object sender, EventArgs e)
