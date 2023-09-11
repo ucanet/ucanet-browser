@@ -40,7 +40,7 @@ namespace Heijden.DNS
 		/// <summary>
 		/// Default DNS port
 		/// </summary>
-		public const int DefaultPort = 53;
+		public const int DefaultPort = 5453;
 
 		/// <summary>
 		/// Gets list of OPENDNS servers
