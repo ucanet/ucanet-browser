@@ -4,7 +4,7 @@
 <h1 align="center">ucanet browser</h1>
 </p>
 
-Access the ucanet with no DNS changes required — even on Windows 98.
+Access the ucanet with no DNS changes required in a standalone web browser.
 
 `ucanet browser` is a Windows Forms-based web browser designed for exploring websites on the [ucanet (ucanet.net)](https://ucanet.net), an alt-root DNS server built for retro computers and legacy operating systems. This browser supports Windows 98 through Windows 11, and only requires .NET Framework 2.0.
 
